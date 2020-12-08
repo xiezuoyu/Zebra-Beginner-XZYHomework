@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+target 'XZYHomework2' do
+pod 'Masonry', '~> 1.1'
+pod 'YTKNetwork', '~> 2.0'
+pod 'Mantle'
+pod 'SDWebImage', '~> 5.0'
+pod 'MJRefresh'
+pod 'LookinServer', :configurations => ['Debug']
+end
+

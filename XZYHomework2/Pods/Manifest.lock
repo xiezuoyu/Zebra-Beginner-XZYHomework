@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - LookinServer (1.0.0)
+  - Mantle (2.1.6):
+    - Mantle/extobjc (= 2.1.6)
+  - Mantle/extobjc (2.1.6)
+  - Masonry (1.1.0)
+  - MJRefresh (3.5.0)
+  - SDWebImage (5.10.0):
+    - SDWebImage/Core (= 5.10.0)
+  - SDWebImage/Core (5.10.0)
+  - YTKNetwork (2.1.4):
+    - AFNetworking/NSURLSession (~> 3.0)
+
+DEPENDENCIES:
+  - LookinServer
+  - Mantle
+  - Masonry (~> 1.1)
+  - MJRefresh
+  - SDWebImage (~> 5.0)
+  - YTKNetwork (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - LookinServer
+    - Mantle
+    - Masonry
+    - MJRefresh
+    - SDWebImage
+    - YTKNetwork
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  LookinServer: 0002891cd3cec5e082a910e897dfe71b4f06b89e
+  Mantle: 4c0ed6ce47c96eccc4dc3bb071deb3def0e2c3be
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  SDWebImage: 9169792e9eec3e45bba2a0c02f74bf8bd922d1ee
+  YTKNetwork: 19be749c30f0512ada07180f4637b4b67bc8ddc2
+
+PODFILE CHECKSUM: 3d04bdfda932c895490183b0c1b853088d45795e
+
+COCOAPODS: 1.10.0
